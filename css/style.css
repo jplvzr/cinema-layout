@@ -1,27 +1,40 @@
-header {
+.fixed {
+	position: fixed;
 	background-color: white;
-}
-
-body {
-	font-size: 20px;
+    opacity: .9;
+    width: 100%;
 }
 
 h2 {
 	font-size: 2em;
 }
 
-hr {
-	padding: 10px 0;
+section .col-4 {
+	margin-top: 20px;
 }
 
+.intro {
+	margin-top: 20px;
+
+}
+.title {
+	border-bottom: solid;
+}
 .movil{
 	margin-top: 30px;
 }
-.fixed {
-	position: fixed;
-	background-color: white;
-    opacity: .9;
-    width: 100%;
+
+.icono {
+	width: 13%;
+	margin-top: 223px;
+	margin-left: 475px;
+}
+
+.rate {
+	border:2px solid green;
+	border-radius: 20%
+	padding: 5px;
+	width: 40px;
 }
 
 .bg-banner {
