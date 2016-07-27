@@ -2,6 +2,28 @@ header {
 	background-color: white;
 }
 
+body {
+	font-size: 20px;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+hr {
+	padding: 10px 0;
+}
+
+.movil{
+	margin-top: 30px;
+}
+.fixed {
+	position: fixed;
+	background-color: white;
+    opacity: .9;
+    width: 100%;
+}
+
 .bg-banner {
 	background-image: url("../img/banner.jpg");
 	background-size: cover;
