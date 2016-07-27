@@ -1,0 +1,23 @@
+header {
+	background-color: white;
+}
+
+.bg-banner {
+	background-image: url("../img/banner.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.movies {
+	background-color: yellow;
+}
+
+.col-2 img,
+.col-3 img {
+	max-width: 100%;
+}
+
+footer {
+	background-color: gray;
+}
